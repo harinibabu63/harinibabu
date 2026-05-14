@@ -9,8 +9,8 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝
 ```
 
-### Electrical & Embedded Hardware Engineer
-**PCB Design · Signal Integrity · Embedded Systems · IoT**
+### Electrical Design Engineer
+**PCB Design · Signal Integrity · Embedded Systems 
 
 [![LinkedIn] www.linkedin.com/in/harini-babu-8ba4331b8
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinibabu63@gmail.com)
