@@ -1,6 +1,6 @@
 <div align="center">
-
-```
+ 
+ ```
 ██╗  ██╗ █████╗ ██████╗ ██╗███╗   ██╗██╗    ██████╗  █████╗ ██████╗ ██╗   ██╗
 ██║  ██║██╔══██╗██╔══██╗██║████╗  ██║██║    ██╔══██╗██╔══██╗██╔══██╗██║   ██║
 ███████║███████║██████╔╝██║██╔██╗ ██║██║    ██████╔╝███████║██████╔╝██║   ██║
@@ -12,7 +12,7 @@
 ### Electrical & Embedded Hardware Engineer
 **PCB Design · Signal Integrity · Embedded Systems · IoT**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harini-babu-8ba4331b8)
+[![LinkedIn] www.linkedin.com/in/harini-babu-8ba4331b8
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinibabu63@gmail.com)
 [![Location](https://img.shields.io/badge/California%2C_USA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -22,12 +22,22 @@
 
 ## 👋 About Me
 
-I'm a **hardware-first engineer** who bridges the gap between electrons and intelligence. With a Master's in Electrical Engineering from **Cal State Fullerton** and hands-on experience across PCB design, embedded systems, and IoT, I build hardware that works the first time.
+Hi There :) - I'm Harinibabu
 
-- 🔧 Designing **multi-layer mixed-signal PCBs** with a focus on signal integrity and first-pass manufacturing success
-- 📡 Building embedded systems that integrate **sensors, wireless protocols, and real-time data**
-- 🎓 MS in Electrical Engineering — **California State University, Fullerton**
-- 📍 Based in **California, USA** — open to hardware engineering opportunities
+Electrical Engineer · PCB Design Engineer · Embedded Hardware Engineer · Hardware Validation Engineer · Actively Looking for Full-time Opportunities
+
+> MS Electrical Engineering @ California State University, Fullerton → Electrical Design Engineer @ CSK Foundation → Embedded Design Engineer @ Retech Solutions → Electrical Engineer @ Lumisense Technologies
+
+My interest in electrical engineering started from real life, not just textbooks. I grew up around agricultural equipment, motors, capacitors, wiring, and everyday electrical repairs. Watching electrical systems power real machines made me curious about how small components could create useful, reliable systems.
+That curiosity grew stronger when I first saw the inside of a television. The circuit board looked like a small city to me, with components like buildings and copper traces like roads. That early fascination eventually led me into Electronics and Communication Engineering, where building my first PCB confirmed that hardware design was the field I wanted to grow in.
+
+Today, with a Master's degree in Electrical Engineering from California State University, Fullerton, and hands-on experience in PCB design, embedded hardware, circuit validation, and hardware bring-up, I am focused on building reliable, practical, real-world electrical and electronic systems.
+
+- 🔧 Designing multi-layer mixed-signal PCBs with a focus on signal integrity and first-pass manufacturing success
+- 📡 Building embedded systems that integrate sensors, wireless protocols, and real-time data
+- 🎓 MS in Electrical Engineering — California State University, Fullerton
+- 📍 Based in California, USA — open to hardware engineering opportunities
+- 📘 Currently preparing for the Fundamentals of Engineering (FE) Exam
 
 ---
 
