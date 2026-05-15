@@ -34,7 +34,7 @@ Currently
 
 
 --- 
-🛠️ Technical Skills
+🛠️ Technical Skills:
 Hardware & Design
 PCB Design
 Analog Circuit Design
@@ -43,21 +43,21 @@ Signal Integrity
 EMC/ESD
 DFM/DFA
 
-EDA Tools
+EDA Tools:
 PADS VX2.11
 Altium Designer
 Cadence Allegro
 AutoCAD Electrical
 EasyEDA
 
-Simulation & Software
+Simulation & Software:
 MATLAB/Simulink
 LTSpice
 PSpice
 OpenCV
 Python
 
-Protocols & Interfaces
+Protocols & Interfaces:
 UART
 SPI
 I2C
@@ -67,6 +67,7 @@ Wi-Fi/GPS/GSM
 
 ---
 💼 Experience
+
 My experience has grown step by step across communication systems, component manufacturing, embedded hardware, and professional PCB design. Each role added a different layer to how I understand hardware: how systems communicate, how components are selected and verified, how embedded boards are debugged, and how PCB designs move from schematic to real-world manufacturing.
 
 ---
