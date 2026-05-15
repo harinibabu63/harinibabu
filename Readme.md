@@ -20,8 +20,8 @@ That curiosity grew stronger when I first saw the inside of a television. The ci
 Today, with a Master's degree in Electrical Engineering from California State University, Fullerton, and hands-on experience in PCB design, embedded hardware, circuit validation, and hardware bring-up, I am focused on building reliable, practical, real-world electrical and electronic systems.
 
 ---
+
 Currently
-## Currently
 
 - 🎓 MS Electrical Engineering** @ California State University, Fullerton
 - ⚡ Member— CSUF Electrical Engineering Club
