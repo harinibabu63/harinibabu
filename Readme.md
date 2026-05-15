@@ -148,6 +148,8 @@ Project
 | 🪖 smart-helmet-accident-detection | Smart helmet safety system with helmet detection, alcohol sensing, vibration-based accident detection, MEMS rash driving detection, load monitoring, GPS alerting, and ZigBee communication. | Embedded Systems / IoT |
 | 🚗 vehicle-management-system-wifi | Vehicle safety system with driver drowsiness detection, heartbeat monitoring, vibration-based accident detection, GPS location tracking, Wi-Fi server updates, and emergency alerting. | Embedded Technology / Vehicle Safety |
 | 🔌 compact-2-port-usb-charger-module | Dual-port USB charger module operating from 12V input and delivering regulated 5V output. Covers buck converter design, USB power switches, current limiting, fault indicators, and compact PCB layout. | Power Electronics / PCB Design |
+| 🪪 nfc-reader-with-relay | ESP32-based NFC reader module using the TRF7970A NFC transceiver for ISO 14443A tag detection. The design reads an NFC tag UID and toggles a relay to control external devices such as door locks, motors, or automation loads. Covers NFC antenna tuning, SPI communication, relay driver control, LED indicators, power regulation, and RF-aware PCB layout. | PCB Design / NFC / IoT Hardware |
+| ⚡ 3v3-output-flyback-converter | Compact isolated flyback converter module that converts 120 VAC input to a regulated 3.3 V DC output. Uses the UCC28881 flyback controller, custom transformer, bridge rectifier, surge protection, snubber network, optocoupler feedback, and LMV431 regulation. Covers AC-DC conversion, isolation, transformer design, creepage/clearance, and high-voltage PCB safety. | Power Electronics / AC-DC Converter |
 
 
 
