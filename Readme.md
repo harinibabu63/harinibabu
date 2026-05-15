@@ -21,14 +21,17 @@ Today, with a Master's degree in Electrical Engineering from California State Un
 
 ---
 Currently
-🎓 MS Electrical Engineering @ California State University, Fullerton.
-⚡ Member — CSUF Electrical Engineering Club.
-🏛️ President — IFC Club @ CSUF
-📘 Preparing for the Fundamentals of Engineering (FE) Exam
-🧩 Building hands-on projects in PCB design, mixed-signal hardware, sensor systems, and circuit validation
-🛠️ Strengthening skills in multi-layer PCB layout, schematic design, DFM/DFA, signal integrity, and hardware bring-up
-🔬 Working with tools like Altium Designer, PADS VX2.11, Cadence Allegro/OrCAD, MATLAB/Simulink, LTspice, and PSpice
-🎯 Actively looking for full-time opportunities in PCB Design, Electrical Design, Hardware Validation, and Product Development
+## Currently
+
+- 🎓 MS Electrical Engineering** @ California State University, Fullerton
+- ⚡ Member— CSUF Electrical Engineering Club
+- 🏛️ President — IFC Club @ CSUF
+- 📘 Preparing for the Fundamentals of Engineering (FE) Exam
+- 🧩 Building hands-on projects in PCB design, mixed-signal hardware, sensor systems, and circuit validation
+- 🛠️ Strengthening skills in multi-layer PCB layout, schematic design, DFM/DFA, signal integrity, and hardware bring-up
+- 🔬 Working with tools like Altium Designer, PADS VX2.11, Cadence Allegro/OrCAD, MATLAB/Simulink, LTspice, and PSpice
+- 🎯 Actively looking for full-time opportunities in PCB Design, Electrical Design, Hardware Validation, and Product Development
+
 
 --- 
 🛠️ Technical Skills
