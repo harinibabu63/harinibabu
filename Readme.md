@@ -144,7 +144,7 @@ Project
 
 | Repository | What it covers | Area |
 |---|---|---|
-| 🫀 heart-rate-monitoring-pcb(https://github.com/harinibabu63/heart-rate-monitoring-pcb) | Heart rate monitoring PCB using LDR and LM358 op-amp. Covers schematic design, custom symbols, footprints, PCB layout, routing, LED pulse output, and 3D board review in Altium Designer. | PCB Design / Analog Electronics |
+| 🫀 [heart-rate-monitoring-pcb](https://github.com/harinibabu63/heart-rate-monitoring-pcb) | Heart rate monitoring PCB using LDR and LM358 op-amp. Covers schematic design, custom symbols, footprints, PCB layout, routing, LED pulse output, and 3D board review in Altium Designer. | PCB Design / Analog Electronics |
 | 🪖 smart-helmet-accident-detection | Smart helmet safety system with helmet detection, alcohol sensing, vibration-based accident detection, MEMS rash driving detection, load monitoring, GPS alerting, and ZigBee communication. | Embedded Systems / IoT |
 | 🚗 vehicle-management-system-wifi | Vehicle safety system with driver drowsiness detection, heartbeat monitoring, vibration-based accident detection, GPS location tracking, Wi-Fi server updates, and emergency alerting. | Embedded Technology / Vehicle Safety |
 | 🔌 compact-2-port-usb-charger-module | Dual-port USB charger module operating from 12V input and delivering regulated 5V output. Covers buck converter design, USB power switches, current limiting, fault indicators, and compact PCB layout. | Power Electronics / PCB Design |
