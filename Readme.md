@@ -21,6 +21,7 @@ Today, with a Master's degree in Electrical Engineering from California State Un
 
 ---
 Currently
+
 🎓 MS Electrical Engineering @ California State University, Fullerton
 ⚡ Member — CSUF Electrical Engineering Club
 🏛️ President — IFC Club @ CSUF
