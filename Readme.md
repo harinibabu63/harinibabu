@@ -23,7 +23,7 @@ Today, with a Master's degree in Electrical Engineering from California State Un
 
 Currently
 
-- 🎓 MS Electrical Engineering** @ California State University, Fullerton
+- 🎓 MS Electrical Engineering @ California State University, Fullerton
 - ⚡ Member— CSUF Electrical Engineering Club
 - 🏛️ President — IFC Club @ CSUF
 - 📘 Preparing for the Fundamentals of Engineering (FE) Exam
@@ -88,7 +88,8 @@ This role gave me end-to-end ownership from schematic design to manufacturing re
 
 ---
 🏢 Retech Solutions Pvt Ltd — Embedded Design Engineer  
-  Jan 2019 – Jun 2019 | Chennai, India
+Jan 2019 – Jun 2019 | Chennai, India
+
 At Retech Solutions, I got closer to the point where hardware and firmware meet. I worked on microcontroller-based systems and learned how embedded boards behave during validation, bring-up, and debugging.
 
 This experience helped me understand that a board is not complete when the layout is done. It becomes real when power rails are checked, signals are probed, peripherals respond, and hardware and firmware start working together.
