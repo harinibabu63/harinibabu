@@ -4,8 +4,8 @@
 PCB Design Engineer · Multi-Layer PCB Layout · Mixed-Signal Hardware · Signal Integrity · DFM/DFA · Hardware Validation
 
 [LinkedIn] www.linkedin.com/in/harini-babu-8ba4331b8
-[Email] https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinibabu63@gmail.com)
-[Location](https://img.shields.io/badge/California%2C_USA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)]
+[Email] harinibabu63@gmail.com
+[Location] California, United States.
 
 ---
 🔌From Curiosity to Circuit Boards
