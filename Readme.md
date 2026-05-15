@@ -65,7 +65,8 @@ Wi-Fi/GPS/GSM
 ---
 💼 Experience
 
-     My experience has grown step by step across communication systems, component manufacturing, embedded hardware, and professional PCB design. Each role added a different layer to how I understand hardware: how systems communicate, how components are selected and verified, how embedded boards are debugged, and how PCB designs move from schematic to real-world manufacturing.
+My experience has grown step by step across communication systems, component manufacturing, embedded hardware, and professional PCB design. Each role added a different layer to how I understand hardware: how systems communicate, how components are selected and verified, how embedded boards are debugged, and how PCB designs move from schematic to real-world manufacturing.
+
 ---
 🏢 CSK Foundation — Electrical Design Engineer  
   Oct 2024 – Aug 2025 | Cerritos, CA
