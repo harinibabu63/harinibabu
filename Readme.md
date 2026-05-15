@@ -138,6 +138,14 @@ My journey started with communication systems at BSNL, moved into wireless compo
                 Communication Systems → Component Manufacturing → Embedded Hardware → PCB Design → Hardware Validation
 
 I now approach design with the mindset that a good board should not only work in theory. It should be clean, manufacturable, testable, and reliable in real-world conditions.
+---
+
+Project
+
+| Repository | What it covers | Area |
+|---|---|---|
+| 🫀 heart-rate-monitoring-pcb | Heart rate monitoring PCB using LDR and LM358 op-amp. Covers schematic design, custom symbols, footprints, PCB layout, routing, LED pulse output, and 3D board review in Altium Designer. | PCB Design / Analog Electronics |
+
 
 
 
