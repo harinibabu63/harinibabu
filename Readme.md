@@ -1,5 +1,5 @@
                                     
-                                                   Electrical Design Engineer
+                                                     Electrical Design Engineer
 
 PCB Design Engineer · Multi-Layer PCB Layout · Mixed-Signal Hardware · Signal Integrity · DFM/DFA · Hardware Validation
 
@@ -151,6 +151,34 @@ Project
 | 🪪 [nfc-reader-with-relay](https://github.com/harinibabu63/NFC-reader-with-relay) | ESP32-based NFC reader module using the TRF7970A NFC transceiver for ISO 14443A tag detection. The design reads an NFC tag UID and toggles a relay to control external devices such as door locks, motors, or automation loads. Covers NFC antenna tuning, SPI communication, relay driver control, LED indicators, power regulation, and RF-aware PCB layout. | PCB Design / NFC / IoT Hardware |
 | ⚡ [3v3-output-flyback-converter](https://github.com/harinibabu63/120-VAC-to-3.3V-Flyback-Converter/edit/main/README.md) | Compact isolated flyback converter module that converts 120 VAC input to a regulated 3.3 V DC output. Uses the UCC28881 flyback controller, custom transformer, bridge rectifier, surge protection, snubber network, optocoupler feedback, and LMV431 regulation. Covers AC-DC conversion, isolation, transformer design, creepage/clearance, and high-voltage PCB safety. | Power Electronics / AC-DC Converter |
 | 📡 [6ghz-rf-signal-generator](https://github.com/harinibabu63/-6-GHz-RF-Signal-Generator/edit/main/README.md)| RF signal generator module that produces a fixed 6.3 GHz output through an SMA connector. The design uses an HMC358MS8GE VCO, HMC637ALP5E power amplifier, low-noise regulators, dual-rail gate biasing, AC coupling, bias-tee network, and 50 ohm RF routing. Covers RF layout, coplanar waveguide design, impedance control, power filtering, SMA output, and high-frequency PCB design practices. | RF Design / High-Frequency PCB |
+
+---
+## 🏅 Licenses & Certifications
+
+| Certification | Issuer | Focus |
+|---|---|---|
+| ✈️ Electrical Engineering Job Simulation | Forage / GE Aerospace | Electrical systems, aircraft power distribution, troubleshooting |
+| 🏭 Learning Industrial Automation | LinkedIn Learning | Industrial automation fundamentals |
+| 🧾 OrCAD-X-Capture-23.1 | EMA Design Automation | OrCAD schematic capture |
+| 📐 How to Design a Board from Schematic to Layout | Sierra Circuits | Schematic capture, PCB layout workflow |
+| 🧩 Introduction to PCBs | Sierra Circuits | PCB design fundamentals |
+| 🖥️ Designing Hardware for Raspberry Pi Projects | Johns Hopkins University | Raspberry Pi hardware design |
+| 🔌 Electronics Foundations | LinkedIn Learning | Electronics fundamentals |
+| 📊 MATLAB Onramp | MATLAB Coding | MATLAB basics, data analysis, scripting |
+| 🔲 Learning FPGA Development | LinkedIn Learning | FPGA concepts, HDL, digital design |
+| 💻 Problem Solving Through Programming in C | NPTEL | C programming fundamentals |
+| 🛠️ PCB Design and Real Time System | IETE / VIT University | PCB design and real-time systems |
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harinibabu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/harini-babu-8ba4331b8)
+[![Email](https://img.shields.io/badge/Email-harinibabu63%40gmail.com-D14836?style=flat&logo=gmail)](mailto:harinibabu63@gmail.com)
+
+---
+
+*California, United States · Open to full-time roles in PCB Design, Electrical Design, Hardware Validation, Product Development, and Mixed-Signal Hardware*
 
 
 
