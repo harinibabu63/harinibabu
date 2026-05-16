@@ -96,7 +96,7 @@ This experience helped me understand that a board is not complete when the layou
 
 - Performed schematic validation for microcontroller-based systems before fabrication
 - Supported hardware bring-up by checking power rails and validating board-level behavior
-- Verified communication interfaces including **UART, SPI, and I2C**
+- Verified communication interfaces including UART, SPI, and I2C
 - Used oscilloscopes and logic analyzers to debug real-time hardware behavior
 - Worked with firmware teams to identify whether issues came from hardware or software
 - Documented bring-up steps and failure analysis results for future debugging reference
