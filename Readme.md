@@ -72,44 +72,20 @@ My experience has grown step by step across communication systems, component man
 
 ---
 ## Professional Experience
-PCB Design Engineer, Flex Interconnect Technologies                                                           09/2025 – Present | CA, USA
 
-• Supported HDI High-Speed Camera Interface PCB (MIPI CSI-2) development by collaborating with cross-functional electrical, mechanical, SI/PI, and 
-manufacturing teams, while contributing to requirement definition, stack-up, and DFM reviews for high-speed imaging interconnect systems.
+🔌 PCB Design Engineer — Flex Interconnect Technologies (Sep 2025 – Present)
 
-• Contributed to system architecture design through CMOS camera sensor selection, MIPI CSI-2 multi-lane interface planning, and bandwidth 
-optimization, achieving 11% improvement in data throughput efficiency by optimizing lane allocation and routing strategy.
+HDI PCB layout for MIPI CSI-2 camera interface boards — BGA breakout, via-in-pad, length-matched routing across MIPI CSI-2, DDR, PCIe · Altium Designer, HyperLynx, Keysight ADS · 11% throughput gain, 14% crosstalk reduction, 18% noise/latency reduction.
 
-• Assisted in schematic capture and controlled impedance stack-up design using 90Ω differential pair standards, while ensuring robust power 
-distribution and grounding strategy, resulting in under 5% signal reflection reduction through optimized FPC/FCC connector and return path design.
+🔧 PCB Design Engineer — CSK Foundation (Oct 2024 – Aug 2025)
 
-PCB Design Engineer, CSK Foundation                                                                           10/2024 – 08/2025 | CA, USA
+Mixed-signal multilayer PCB design with disciplined analog/digital ground separation · Altium Designer, Cadence Allegro, AutoCAD Electrical · IPC-2152 power distribution networks, DFM-driven design reviews.
 
-• Designed mixed-signal multi-layer PCBs in Altium Designer, implementing disciplined routing for SPI/I2C interfaces, analog and digital ground 
-separation, star-point grounding techniques, and blind/buried vias for high-density compact PCB layouts for improved signal integrity.
+⚡ Electrical Engineer – PCB & Hardware Validation — Lumisense Technologies (Mar 2020 – Jul 2022)
 
-• Developed power distribution networks using IPC-2152 trace-width calculations and current density guidelines, ensuring thermal reliability and 
-voltage drop control, formed AutoCAD Electrical fabrication and assembly drawings for manufacturing documentation and production support teams.
+PCB component library development, board bring-up, and wireless module validation · Altium Designer, IPC-7351 · 18% rework reduction, 12% wireless stability improvement.
 
-• Team up with cross-functional hardware teams to support schematic review, signal integrity analysis, and design for manufacturability perfections, 
-reducing layout iterations and improving reliability across mixed-signal PCB prototypes & production-ready designs in regulated settings.
 
-Electrical Engineer – PCB & Hardware Validation, Lumisense Technologies                                     03/2020 – 07/2022 | Chennai, India
-
-• Served as PCB librarian, responsible for creating and maintaining Altium component libraries, including symbols, footprints, and 3D STEP models. 
-Validated land patterns as per IPC-7351 standards, ensuring manufacturability, accuracy, and design compliance across projects.
-
-• Standardized component library development practices, improving consistency in symbol-to-footprint mapping and 3D integration. Reduced design 
-errors, enhanced reuse efficiency, and improved overall PCB layout quality across multiple hardware development cycles and product iterations.
-
-• Supported board bring-up activities, including power rail validation, initial hardware debugging, signal integrity checks, and interface verification. 
-Ensured prototype readiness through systematic testing and faster issue identification during early-stage embedded hardware development phases.
-
-• Performed functional testing of ZigBee and Bluetooth modules, validating connectivity, protocol compliance, range, and reliability under different 
-operating conditions. Improved wireless module performance stability by 12% through iterative validation and corrective feedback loops.
-
-• Implemented structured Gerber vs assembly verification checklists before production release, improving manufacturing quality control. Reduced PCB 
-rework by 18%, minimized fabrication errors, and improved first-pass production success rate through systematic review processes.
 
 ---
 🔗 Experience Summary
