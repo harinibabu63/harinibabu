@@ -133,7 +133,7 @@ Project
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harinibabu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/harini-babu-8ba4331b8)
 [![Email](https://img.shields.io/badge/Email-harinibabu63%40gmail.com-D14836?style=flat&logo=gmail)](mailto:harinibabu63@gmail.com)
-🌐 [Read my blog](https://lnkd.in/gM8Fy3E5)
+🌐 [Read my blog](https://lnkd.in/gM8Fy3E5) 
 ---
 
 *California, United States · Open to full-time roles in PCB Design, Electrical Design, Hardware Validation, Product Development, and Mixed-Signal Hardware*
