@@ -72,45 +72,49 @@ My experience has grown step by step across communication systems, component man
 
 ---
 ## Professional Experience
+PCB Design Engineer, Flex Interconnect Technologies                                                           09/2025 – Present | CA, USA
 
-### A3 Tech Solutions LLC - Electrical Engineer / PCB Design Engineer  
-**Sep 2025 - Present | Lewisville, TX**
+• Supported HDI High-Speed Camera Interface PCB (MIPI CSI-2) development by collaborating with cross-functional electrical, mechanical, SI/PI, and 
+manufacturing teams, while contributing to requirement definition, stack-up, and DFM reviews for high-speed imaging interconnect systems.
 
-At A3 Tech Solutions LLC, I work on PCB design activities for AC and DC hardware applications, supporting schematic-to-board development for new and existing product projects. My work involves translating electrical requirements into manufacturable PCB layouts while balancing routing quality, grounding, thermal behavior, testability, and cost.
+• Contributed to system architecture design through CMOS camera sensor selection, MIPI CSI-2 multi-lane interface planning, and bandwidth 
+optimization, achieving 11% improvement in data throughput efficiency by optimizing lane allocation and routing strategy.
 
-- Design PCB layouts for AC and DC applications, supporting schematic-to-board development across product projects
-- Perform component placement, signal routing, and power/ground plane design to improve electrical performance and layout reliability
-- Resolve clearance issues, routing violations, layout constraints, and DRC findings before design release
-- Optimize PCB layouts for DFM, thermal performance, testability, cost, and assembly reliability
-- Collaborate with engineers and senior designers during PCB reviews and design iterations
+• Assisted in schematic capture and controlled impedance stack-up design using 90Ω differential pair standards, while ensuring robust power 
+distribution and grounding strategy, resulting in under 5% signal reflection reduction through optimized FPC/FCC connector and return path design.
 
-### CSK Foundation - Electrical Design Engineer  
-**Oct 2024 - Aug 2025 | Cerritos, CA**
+PCB Design Engineer, CSK Foundation                                                                           10/2024 – 08/2025 | CA, USA
 
-At CSK Foundation, I contributed to robotics-focused electrical design work by supporting PCB hardware development for prototype systems. The work involved turning robotics project requirements into practical board-level solutions, with attention to power distribution, signal routing, component integration, manufacturability, and technical documentation.
+• Designed mixed-signal multi-layer PCBs in Altium Designer, implementing disciplined routing for SPI/I2C interfaces, analog and digital ground 
+separation, star-point grounding techniques, and blind/buried vias for high-density compact PCB layouts for improved signal integrity.
 
-- Designed PCB hardware for robotics projects in Altium Designer, including schematic capture, footprint creation, component placement, routing, and fabrication-readiness checks
-- Developed electrical layouts and technical design documentation in AutoCAD to support robotics hardware planning and project reviews
-- Engineered board-level solutions for robotics prototypes with focus on power distribution, grounding, signal routing, and reliable hardware integration
-- Reviewed PCB layouts and corrected design issues early to improve prototype readiness before testing and demonstration
-- Collaborated with robotics teams to convert functional requirements into testable electrical hardware solutions
+• Developed power distribution networks using IPC-2152 trace-width calculations and current density guidelines, ensuring thermal reliability and 
+voltage drop control, formed AutoCAD Electrical fabrication and assembly drawings for manufacturing documentation and production support teams.
 
-### Lumisense Technologies - Electrical Engineer  
-**Aug 2021 - Jul 2022 | Chennai, India**
+• Team up with cross-functional hardware teams to support schematic review, signal integrity analysis, and design for manufacturability perfections, 
+reducing layout iterations and improving reliability across mixed-signal PCB prototypes & production-ready designs in regulated settings.
 
-At Lumisense Technologies, I worked with wireless electronics hardware related to ZigBee and Bluetooth transceiver modules. My role focused on component validation, circuit verification, datasheet review, and production-readiness support.
+Electrical Engineer – PCB & Hardware Validation, Lumisense Technologies                                     03/2020 – 07/2022 | Chennai, India
 
-- Validated incoming components against datasheets for ZigBee and Bluetooth wireless transceiver modules
-- Identified specification mismatches early to support production quality and reduce hardware rework
-- Reviewed component fitment, circuit requirements, and assembly documentation for electronics module builds
-- Maintained circuit verification and component validation records to improve traceability during hardware review
-- Supported production-readiness activities by checking component consistency and documentation accuracy
----
-This experience shaped how I now approach PCB design: not just asking “Will this circuit work?” but also “Can this be built reliably and repeatedly?”
+• Served as PCB librarian, responsible for creating and maintaining Altium component libraries, including symbols, footprints, and 3D STEP models. 
+Validated land patterns as per IPC-7351 standards, ensuring manufacturability, accuracy, and design compliance across projects.
+
+• Standardized component library development practices, improving consistency in symbol-to-footprint mapping and 3D integration. Reduced design 
+errors, enhanced reuse efficiency, and improved overall PCB layout quality across multiple hardware development cycles and product iterations.
+
+• Supported board bring-up activities, including power rail validation, initial hardware debugging, signal integrity checks, and interface verification. 
+Ensured prototype readiness through systematic testing and faster issue identification during early-stage embedded hardware development phases.
+
+• Performed functional testing of ZigBee and Bluetooth modules, validating connectivity, protocol compliance, range, and reliability under different 
+operating conditions. Improved wireless module performance stability by 12% through iterative validation and corrective feedback loops.
+
+• Implemented structured Gerber vs assembly verification checklists before production release, improving manufacturing quality control. Reduced PCB 
+rework by 18%, minimized fabrication errors, and improved first-pass production success rate through systematic review processes.
+
 ---
 🔗 Experience Summary
 
-My experience grew from wireless hardware validation at Lumisense Technologies, expanded into robotics-focused PCB and electrical design at CSK Foundation, and now continues through professional PCB layout and product-focused board development at A3 Tech Solutions LLC.
+My experience grew from wireless hardware validation at Lumisense Technologies, expanded into robotics-focused PCB and electrical design at CSK Foundation, and now continues through professional PCB layout and product-focused board development at  Flex Interconnect Technologies.
                            
                                                 "That path gave me a full hardware perspective."
                 Communication Systems → Component Manufacturing → Embedded Hardware → PCB Design → Hardware Validation
